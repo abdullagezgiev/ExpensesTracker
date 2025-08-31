@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
+# 💰 Expense Tracker
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A beautiful mobile expense tracking app built with React Native, TypeScript, and Expo.
 
-## Get started
+## ✨ Features
 
-1. Install dependencies
+- ➕ Add expenses with categories
+- 📊 View statistics and totals  
+- 📤 Export data to CSV
+- 🎨 Beautiful bed-yellow themed UI
+- 📱 Cross-platform (iOS & Android)
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## 🛠️ Built With
 
-   ```bash
-   npx expo start
-   ```
+- React Native
+- TypeScript
+- Expo
+- Expo Router
+- AsyncStorage
 
-In the output, you'll find options to open the app in a
+## 📸 Screenshots
+![Home Screen](assets/screenshots/26CFNTHE5P15YhTVub7F_mCvQ9xyWmfm8WbZOaopunJvEcL5bmwxpqzLS8mrH8bK8r5tAJuOE2QmoyHrF-gfy4Pz.jpg)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+![Statistics Screen](assets/screenshots/3Q_9tFHOliodYX6frxaUCChsb9roionJ19XTMtFmId6NjZ3KGV9_4H-shkBzVKSLmpSmbyjpPQTgJOwPPvuQ2XFM.jpg)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+![Add Expenses Screen](assets/screenshots/gae_Qelhv1TIRAPlzK7ZFrEguqpY3D5C_OJpXQ9jXigqs_jhOWM72AtDv1dBBtWyhsvRIbbrlgP6cjss3pSnd26Y.jpg)
 
-## Get a fresh project
+![Add Expenses Screen](assets/screenshots/STsp03YQX3_7VZ0DXeBSfNPrxHDmhXeEf-I-jI6JqmtXyGKNWiRpPaZpZG9cvUnE9kOCt0b_rH-qinu1ZH0GJo0N.jpg)
 
-When you're ready, run:
+## 🚀 Getting Started
 
 ```bash
-npm run reset-project
-```
+# Install dependencies
+npm install
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# Start development server
+npx expo start
