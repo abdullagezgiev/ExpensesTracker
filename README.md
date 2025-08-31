@@ -28,6 +28,11 @@ A beautiful mobile expense tracking app built with React Native, TypeScript, and
 
 ![Add Expenses Screen](assets/screenshots/STsp03YQX3_7VZ0DXeBSfNPrxHDmhXeEf-I-jI6JqmtXyGKNWiRpPaZpZG9cvUnE9kOCt0b_rH-qinu1ZH0GJo0N.jpg)
 
+👨‍💻 Author: abdullagezgiev
+
+💖 Support
+If you liked this project, please like (give me ⭐️) it on GitHub!
+
 ## 🚀 Getting Started
 
 ```bash
@@ -36,3 +41,5 @@ npm install
 
 # Start development server
 npx expo start
+
+
