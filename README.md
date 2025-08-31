@@ -31,7 +31,7 @@ A beautiful mobile expense tracking app built with React Native, TypeScript, and
 👨‍💻 Author: abdullagezgiev
 
 💖 Support
-If you liked this project, please like (give me ⭐️) it on GitHub!
+If you liked this project, give it ⭐️ on GitHub!
 
 ## 🚀 Getting Started
 
